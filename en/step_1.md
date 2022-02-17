@@ -9,4 +9,8 @@ You will need:
 
 **Step 2**: Connect a **GND** pin to your kitchen foil (use sticky tape to secure).
 
-![A Raspberry Pi Pico with a ground pin connected to a piece of kitchen foil.](images/step-one.jpeg)
+![A Raspberry Pi Pico with a ground pin connected to a piece of kitchen foil.](images/step-one.jpeg){:width="500px"}
+
+**Step 3**: When adding a component to the Raspberry Pi Pico, connect the **positive** end to a **GP** pin and the **negative** end to the kitchen foil. 
+
+![A Raspberry Pi Pico with a ground pin connected to a piece of kitchen foil. A buzzer is also attached with the positive end on the GP5 pin and the negative end stuck to the kitchen foil.](images/step-three.jpeg){:width="500px"}
