@@ -14,3 +14,7 @@ You will need:
 **Step 3**: When adding a component to the Raspberry Pi Pico, connect the **positive** end to a **GP** pin and the **negative** end to the kitchen foil. 
 
 ![A Raspberry Pi Pico with a ground pin connected to a piece of kitchen foil. A buzzer is also attached with the positive end on the GP5 pin and the negative end stuck to the kitchen foil.](images/step-three.jpeg){:width="500px"}
+
+**Step 4**: When adding further components, ensure that the **positive** end is connected to a **GP** pin on the Raspberry Pi Pico and that the **negative** end is stuck to the kitchen foil. 
+
+![A Raspberry Pi Pico with a ground pin connected to a piece of kitchen foil. A buzzer and an LED are also attached with the positive ends on the GP pins and the negative ends stuck to the kitchen foil.](images/step-four.jpeg){:width="500px"}
