@@ -1,20 +1,20 @@
-There are only 8 **GND** pins on a Raspberry Pi Pico. This means that if you want to use more than 8 components, you will need to share a **GND**. Here is one method for sharing a ground pin:
+There are only 8 **GND** pins on a Raspberry Pi Pico. This means that if you want to use more than 8 components, you will need to share a **GND**. Hier is een methode om een aardingspin te delen:
 
-You will need:
-+ pin-socket jumper wires
-+ some kitchen foil, conductive tape or some other conductive material
-+ sticky tape
+Je hebt nodig:
++ verbindingsdraden met pin-bus aansluiting
++ wat aluminiumfolie, geleidende tape of een ander geleidend materiaal
++ plakband
 
 **Step 1**: Create a strip of kitchen foil or use your other conductive material.
 
-**Step 2**: Connect a **GND** pin to your kitchen foil (use sticky tape to secure).
+**Stap 2**: Sluit een **GND** pin aan op je aluminiumfolie (gebruik plakband om vast te zetten).
 
 ![A Raspberry Pi Pico with a ground pin connected to a piece of kitchen foil.](images/step-one.jpeg){:width="500px"}
 
-**Step 3**: When adding a component to the Raspberry Pi Pico, connect the **positive** end to a **GP** pin and the **negative** end to the kitchen foil.
+**Stap 3**: Bij het toevoegen van een component aan de Raspberry Pi Pico, verbind de **positieve** uiteinden met een **GP** pin en de **negatieve** uiteinden met het aluminiumfolie.
 
-![A Raspberry Pi Pico with a ground pin connected to a piece of kitchen foil. A buzzer is also attached with the positive end on the GP5 pin and the negative end stuck to the kitchen foil.](images/step-three.jpeg){:width="500px"}
+![A Raspberry Pi Pico with a ground pin connected to a piece of kitchen foil. Er is ook een zoemer bevestigd met het positieve uiteinde op de GP5-pin en het negatieve uiteinde op het aluminiumfolie geplakt.](images/step-three.jpeg){:width="500px"}
 
-**Step 4**: When adding further components, ensure that the **positive** end is connected to a **GP** pin on the Raspberry Pi Pico and that the **negative** end is stuck to the kitchen foil.
+**Stap 4**: Zorg er bij het toevoegen van nog meer componenten voor dat het **positieve** uiteinde is aangesloten op een **GP** pin op de Raspberry Pi Pico en dat het **negatieve** uiteinde op het aluminiumfolie is geplakt.
 
-![A Raspberry Pi Pico with a ground pin connected to a piece of kitchen foil. A buzzer and an LED are also attached with the positive ends on the GP pins and the negative ends stuck to the kitchen foil.](images/step-four.jpeg){:width="500px"}
+![A Raspberry Pi Pico with a ground pin connected to a piece of kitchen foil. Een zoemer en een LED zijn ook bevestigd met de positieve uiteinden op de GP-pinnen en de negatieve uiteinden op het aluminiumfolie geplakt.](images/step-four.jpeg){:width="500px"}
