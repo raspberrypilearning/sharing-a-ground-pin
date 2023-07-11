@@ -1,10 +1,10 @@
-title: Sharing a ground pin
+title: Partager une broche de terre
 hero_image: images/banner.png
-description: How to share a ground pin on your Raspberry Pi Pico
+description: Comment partager une broche de terre sur ton Raspberry Pi Pico
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-02-17"
 steps:
   - 
-    title: Sharing a ground pin
+    title: Partager une broche de terre
